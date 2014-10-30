@@ -229,9 +229,10 @@
 				ORGANIZATIONNAME = "Matteo Gobbi";
 				TargetAttributes = {
 					6515A6D4195B7AA900A6DBE6 = {
-						DevelopmentTeam = VU323Z2F3M;
+						DevelopmentTeam = L7Q54NLQX7;
 					};
 					6515A6F5195B7AA900A6DBE6 = {
+						DevelopmentTeam = L7Q54NLQX7;
 						TestTargetID = 6515A6D4195B7AA900A6DBE6;
 					};
 				};
@@ -407,6 +408,7 @@
 				GCC_PREFIX_HEADER = "MGSpotyView/MGSpotyView-Prefix.pch";
 				INFOPLIST_FILE = "MGSpotyView/MGSpotyView-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "0AD4995E-1FF9-477D-B2AB-6A265195D7DE";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -421,6 +423,7 @@
 				GCC_PREFIX_HEADER = "MGSpotyView/MGSpotyView-Prefix.pch";
 				INFOPLIST_FILE = "MGSpotyView/MGSpotyView-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "0AD4995E-1FF9-477D-B2AB-6A265195D7DE";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
